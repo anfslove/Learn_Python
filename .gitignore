@@ -1,0 +1,14 @@
+# Other files and folders
+__pycache__/
+
+# Sublime Text Project files
+*.sublime-project
+*.sublime-workspace
+
+*.zip
+*.rar
+
+##################################
+## Python Virtual Vironments
+##################################
+/venv
